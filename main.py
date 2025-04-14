@@ -1,2 +1,1 @@
-# Final OTC Signal Bot for Render
-print('Bot started')
+# Placeholder for Pocket Option Signal Bot main script
